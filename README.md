@@ -1,0 +1,2 @@
+# kuma
+just another repository
